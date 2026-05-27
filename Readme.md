@@ -88,6 +88,7 @@ The dataset contains:
 ---
 
 ## 📷 Dashboard Preview
+<img width="1270" height="754" alt="image" src="https://github.com/user-attachments/assets/aa27fef9-46bf-421a-9ab0-c7eed6012122" />
 
 
 ---
